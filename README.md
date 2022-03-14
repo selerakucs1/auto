@@ -4,3 +4,4 @@ to the point, biar gag bikin repot
 - cd auto
 - chmod +x mine.sh
 - sudo ./mine.sh
+### don't try it "koleksi pribadi" - test
